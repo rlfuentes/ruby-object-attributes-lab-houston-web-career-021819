@@ -1,5 +1,5 @@
 class Dog 
-name =
+def name = dogs name
 
 
 
